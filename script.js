@@ -50,3 +50,5 @@ const line2 = document.getElementById('line2');
 setupScroll(line2, false, 0.15);
 const line3 = document.getElementById('line3');
 setupScroll(line3, true, 0.15);
+const line4 = document.getElementById('lineCompany');
+setupScroll(line4, true, 0.8);
